@@ -23,3 +23,9 @@ https://mir.dei.uc.pt/downloads.html
 
 14,000 Audio Dataset (mtg-jamendo-dataset):
 https://github.com/MTG/mtg-jamendo-dataset#downloading-the-dataset
+
+## Related Works
+
+Paper Reports: [Need Update]
+
+Code documents: Included in this Github Repo.
