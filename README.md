@@ -20,13 +20,13 @@ emotionally resonant music recommendation and therapy systems.
 
 900 30-sec Audio Clips with 4Q Labels(Russell's Emotion Quadrant):
 https://mir.dei.uc.pt/downloads.html
-
+https://github.com/XiyahC/MusicEmotionRec/blob/master/README.md
 14,000 Audio Dataset (mtg-jamendo-dataset):
 https://github.com/MTG/mtg-jamendo-dataset#downloading-the-dataset
 
 ## Related Works
 
-Paper Reports: [Need Update]
+Paper Reports: https://arxiv.org/abs/2405.06747
 
 Code documents: Included in this Github Repo.
 
